@@ -17,3 +17,9 @@ CREATE DATABASE reviewsdb;
 -- Switch to reviewsdb
 \c reviewsdb;
 
+-- Create reviewsdb
+CREATE DATABASE authdb;
+
+-- Switch to authdb
+\c authdb;
+
